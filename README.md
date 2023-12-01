@@ -22,7 +22,7 @@ Aplicación Web creada para validar los nombres de los archivos de texto, se tie
 
 ## Ver
 
-Para visualizar la Api Web, [pulsar aquí]().
+Para visualizar la Api Web, [pulsar aquí](https://carvillav.github.io/validadorTXT/).
 
 ## Otros
 
